@@ -2,12 +2,12 @@
     "name": "CLI DOR",
     "short_name": "CLI DOR",
     "icons": [{
-            "src": "/assets/icon/android-chrome-192x192.png",
+            "src": "https://cli-dor.github.io/assets/icon/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/assets/icon/android-chrome-256x256.png?v=A05RAwR5zM",
+            "src": "https://cli-dor.github.io/assets/icon/android-chrome-256x256.png",
             "sizes": "256x256",
             "type": "image/png"
         }
